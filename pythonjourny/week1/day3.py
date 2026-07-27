@@ -31,5 +31,5 @@ print(fullname)
 #String method: Mothod are functions attached to a string using dot notation 
 
 text = " Bolu Dev "
-text.upper()
-print(text)
+words = text.upper()
+print(words)
