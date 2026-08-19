@@ -16,7 +16,7 @@ i_get_crush = False
 if i_get_babe == False and i_get_crush == True:
     print("Senior man")
 else:
-    print("You are single bro")
+    print("You are single bro" )
 
 
 score = 100
