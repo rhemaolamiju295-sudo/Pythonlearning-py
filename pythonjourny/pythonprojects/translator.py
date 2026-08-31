@@ -4,7 +4,7 @@ text = input("Enter text: ")
 
 translation = GoogleTranslator(
     source="auto",
-    target="fr"
+    target="la"
 ).translate(text)
 
 print("Translation:", translation)
